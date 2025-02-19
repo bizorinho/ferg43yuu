@@ -1,6 +1,6 @@
 body {
     color: #eef040;
-    background:#f7f875;
+    background:black;
     margin: 0px;
     font-family: "Kumar One", serif;
 }
@@ -17,7 +17,7 @@ header {
 }me
 
 .chamada {
-    background: #f7f875;
+    background: black;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: #eef040 #f7f875;
+    scrollbar-color: #eef040 black;
     scrollbar-width: thin;
     gap: 10px;
 }
